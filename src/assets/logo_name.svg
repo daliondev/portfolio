@@ -2,14 +2,14 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="50"
-   height="50"
-   viewBox="0 0 13.229167 13.229167"
+   width="150"
+   height="60"
+   viewBox="0 0 39.6875 15.875"
    version="1.1"
    id="svg5"
    xml:space="preserve"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
-   sodipodi:docname="logo_no_name.svg"
+   sodipodi:docname="logo.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -29,8 +29,8 @@
      showborder="false"
      borderlayer="false"
      inkscape:zoom="5.7299663"
-     inkscape:cx="75.567635"
-     inkscape:cy="28.70872"
+     inkscape:cx="98.255377"
+     inkscape:cy="42.670408"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
@@ -39,8 +39,8 @@
      inkscape:current-layer="g4783"><inkscape:page
        x="0"
        y="0"
-       width="13.229167"
-       height="13.229167"
+       width="39.6875"
+       height="15.875"
        id="page229" /><inkscape:page
        x="220"
        y="0"
@@ -55,10 +55,10 @@
        id="rect4556" /><color-profile
        name="Agfa-:-Swop-Standard"
        xlink:href="../../../../../WINDOWS/system32/spool/drivers/color/RSWOP.icm"
-       id="color-profile398" /><color-profile
+       id="color-profile669" /><color-profile
        name="ACER-S271HL"
        xlink:href="../../../../../WINDOWS/system32/spool/drivers/color/ACER_S271HL.icm"
-       id="color-profile400" /><clipPath
+       id="color-profile671" /><clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath35"><path
          d="M 0,500 H 750 V 0 H 0 Z"
@@ -327,7 +327,7 @@
      id="g4783"
      transform="matrix(0.20842356,0,0,0.20842356,-6.7581527,12.579049)"><g
        id="g129"
-       transform="matrix(0.41599414,0,0,-0.41599416,-92.933808,41.848339)"><g
+       transform="matrix(0.46240831,0,0,-0.46240834,-101.55113,55.250329)"><g
          id="g131"
          clip-path="url(#clipPath135)"><g
            id="g137"
@@ -339,4 +339,15 @@
            transform="translate(423.9119,199.8103)"><path
              d="m 0,0 v 0 l -0.95,0.95 c -6.537,6.537 -17.136,6.537 -23.673,0 l -23.842,-23.842 0.95,-0.95 c 6.537,-6.536 17.135,-6.537 23.672,-0.001 l -29.27,-29.269 c -13.498,-13.498 -13.498,-35.383 0,-48.88 L 0,-48.88 C 13.498,-35.382 13.498,-13.498 0,0"
              style="fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path143" /></g></g></g></g></svg>
+             id="path143" /></g></g></g><text
+       xml:space="preserve"
+       transform="matrix(0.62140975,0,0,0.77948422,-68.655362,71.302828)"
+       id="text4554"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.2009px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect4556);display:inline;opacity:1;fill:#ffb200;fill-opacity:1;stroke-width:2.116;stroke-dasharray:none"><tspan
+         x="284.46875"
+         y="-107.56148"
+         id="tspan779"><tspan
+           style="font-weight:bold;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift, Bold';fill:#f9f9f9"
+           id="tspan775">Dalion</tspan><tspan
+           style="font-weight:bold;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift, Bold'"
+           id="tspan777">dev</tspan></tspan></text></g></svg>

@@ -1,7 +1,7 @@
 import { FiAlignJustify } from "react-icons/fi";
 import { useState } from "react";
 import { navLinks } from "../constants";
-import { logo, menu, close } from "../assets";
+import { logo_name, menu, close } from "../assets";
 
 const NavBar = () => {
   const [toggle, setToggle] = useState(false);
@@ -9,7 +9,7 @@ const NavBar = () => {
   return (
     <nav className="w-full flex py-6 justify-between items-center">
       <img
-        src={logo}
+        src={logo_name}
         alt="DalionDev"
         className="w-[150px] h-[50px] sm:w-[200px] sm:h-[50px]"
       />

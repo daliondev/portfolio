@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="52.235px"
+   height="52.235px"
+   viewBox="-4.59 0 52.235 52.235"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="thunderbolt.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="7.6959892"
+     inkscape:cx="13.64347"
+     inkscape:cy="19.425703"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Group_7" />
+  <g
+     id="Group_7"
+     data-name="Group 7"
+     transform="translate(-154.697 -506.828)">
+    <path
+       id="Path_23"
+       data-name="Path 23"
+       d="M197.744,530.808a21.523,21.523,0,1,1-21.524-21.524A21.524,21.524,0,0,1,197.744,530.808Z"
+       fill="#d1d3d4" />
+    <path
+       id="Path_24"
+       data-name="Path 24"
+       d="M170.831,508.828h17.42l-10.4,19.41,10.4.288-16.117,28.538,3.518-21.651-9.853.685Z"
+       fill="#fff"
+       stroke="#231f20"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="4"
+       style="fill:#ffa300;fill-opacity:1" />
+  </g>
+</svg>
