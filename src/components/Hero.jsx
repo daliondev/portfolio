@@ -38,7 +38,7 @@ const Hero = () => {
           />
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          This page was created by Daniel Martinez Tamayo, using react and other
+          This page was created by Daniel Martinez, using react and other
           dependencies, if you want to learn more about me:{" "}
           <a href="https://github.com/D4lion">GitHub</a>{" "}
           <a href="https://www.instagram.com/aloofdann/">Instagram</a>
