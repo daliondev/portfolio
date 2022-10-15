@@ -32,7 +32,7 @@ const Hero = () => {
           <span>| </span>
           <Typewriter
             words={["Developer", "Designer", "Student"]}
-            loop={0}
+            loop={10}
             typeSpeed={70}
             deleteSpeed={70}
           />
@@ -40,8 +40,20 @@ const Hero = () => {
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
           This page was created by Daniel Martinez, using react and other
           dependencies, if you want to learn more about me:{" "}
-          <a href="https://github.com/D4lion">GitHub</a>{" "}
-          <a href="https://www.instagram.com/aloofdann/">Instagram</a>
+          <a
+            href="https://github.com/Daliondev"
+            target="_blank"
+            className="text-white"
+          >
+            GitHub
+          </a>{" "}
+          <a
+            href="https://www.instagram.com/aloofdann/"
+            target="_blank"
+            className="text-white"
+          >
+            Instagram
+          </a>
         </p>
       </div>
       <div
